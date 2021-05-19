@@ -1,0 +1,62 @@
+body {
+  background-color: #000000;
+  max-width: 500px;
+  margin: auto;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+
+pre {
+  color: #F2AF2A;
+  font-size: 7px;
+  font-weight: bold;
+}
+
+pre.header {
+}
+
+pre.footer {
+}
+
+pre.batch {
+  font-size: 4px;
+}
+
+pre.est {
+  font-size: 2px;
+}
+
+div.desc {
+  display: block;
+  font-family: monospace;
+  white-space: pre;
+  margin: 1em 0;
+  font-size: 10px;
+  color: #F2AF2A;
+  width: 400px;
+}
+
+/* unvisited link */
+a:link {
+  color: #F2AF2A;
+}
+
+/* visited link */
+a:visited {
+  color: #F2AF2A;
+}
+
+/* mouse over link */
+a:hover {
+  color: #F2AF2A;
+}
+
+/* selected link */
+a:active {
+  color: #F2AF2A;
+}
+
+a:link {
+  text-decoration: none;
+}
